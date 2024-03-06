@@ -1,24 +1,24 @@
 {
-    "id": "67EBB8C1",
-    "path": "~/Desktop/rmatrix/R/rmatrix.R",
-    "project_path": "R/rmatrix.R",
-    "type": "r_source",
-    "hash": "0",
+    "id": "23494E25",
+    "path": "~/Desktop/rmatrix/NAMESPACE",
+    "project_path": "NAMESPACE",
+    "type": "r_namespace",
+    "hash": "4116331488",
     "contents": "",
     "dirty": false,
-    "created": 1709696985957.0,
+    "created": 1709697061794.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1709696101,
+    "lastKnownWriteTime": 1709696012,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1709696101,
+    "last_content_update": 1709696012,
     "read_only": false,
     "read_only_alternatives": []
 }
